@@ -1,0 +1,21 @@
+export 'package:get/get.dart';
+export '../views/screens/auth/login_screen.dart';
+export '../views/screens/bottom_nav/bottom_nav_bar.dart';
+export '../views/screens/notification/notification_screen.dart';
+export '../views/screens/onbording/onbording_screen.dart';
+export '../views/screens/profile/edit_profile_screen.dart';
+export '../views/screens/profile/profile_setting_screen.dart';
+export '../views/screens/splash/splash_screen.dart';
+export '../views/screens/support_ticket/create_support_ticket_screen.dart';
+export '../views/screens/support_ticket/support_ticket_list_screen.dart';
+export '../views/screens/support_ticket/support_ticket_view_screen.dart';
+export '../views/screens/verification/two_fa_verification_screen.dart';
+export '../views/screens/address/address_list_screen.dart';
+export '../views/screens/home/home_screen.dart';
+
+export '../views/screens/my_cart/my_cart_screen.dart';
+export '../views/screens/orders/my_orders_screen.dart';
+export '../views/screens/products/filter_screen.dart';
+export '../views/screens/products/product_details_screen.dart';
+export '../views/screens/products/product_screen.dart';
+export '../views/screens/wishlist/wishlist_screen.dart';
